@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZMHP_CL_MIG_POS_DATA</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Class for OM data migration SAP =&gt; Oracle</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_POS_DATA</CLSNAME>
+     <CMPNAME>BEGDA</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Start Date</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_POS_DATA</CLSNAME>
+     <CMPNAME>CREATE_METADATA</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Create OM Metadata</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_POS_DATA</CLSNAME>
+     <CMPNAME>ENDDA</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>End Date</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_POS_DATA</CLSNAME>
+     <CMPNAME>GET_MAPPING_FIELDS</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Get relevant migration mapping fields</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_POS_DATA</CLSNAME>
+     <CMPNAME>GET_MAPPING_VALUES</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Get relevant migration mapping values</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_POS_DATA</CLSNAME>
+     <CMPNAME>MOLGA</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Table Type of RSDSSELOPT</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_POS_DATA</CLSNAME>
+     <CMPNAME>OBJECTS</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Org. Management: Table of Object Entries</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

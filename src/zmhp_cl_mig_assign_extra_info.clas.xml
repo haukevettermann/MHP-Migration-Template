@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZMHP_CL_MIG_ASSIGN_EXTRA_INFO</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Create EXTERNAL_IDENT migration structure</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_ASSIGN_EXTRA_INFO</CLSNAME>
+     <CMPNAME>COGU</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Boolean Variable (X=true, -=false, space=unknown)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_ASSIGN_EXTRA_INFO</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_ASSIGN_EXTRA_INFO</CLSNAME>
+     <CMPNAME>CREATE_METADATA</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Create worker metadata string</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_ASSIGN_EXTRA_INFO</CLSNAME>
+     <CMPNAME>GET_COFU_DATA</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Get relevant infotype data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_ASSIGN_EXTRA_INFO</CLSNAME>
+     <CMPNAME>MAP_COFU_DATA</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Map infotyp structure to migration string</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_ASSIGN_EXTRA_INFO</CLSNAME>
+     <CMPNAME>PROCEED_COFU_EXTRA_INFO</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Proceed worker entity for migration to Oracle HCM</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_ASSIGN_EXTRA_INFO</CLSNAME>
+     <CMPNAME>VP_SRC_ID</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>table for name value pairs</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

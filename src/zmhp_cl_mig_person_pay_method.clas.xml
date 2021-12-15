@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZMHP_CL_MIG_PERSON_PAY_METHOD</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Migration of bank details</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_PAY_METHOD</CLSNAME>
+     <CMPNAME>BEGDA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Start Date</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_PAY_METHOD</CLSNAME>
+     <CMPNAME>BNKA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table Type for BNKA Table</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_PAY_METHOD</CLSNAME>
+     <CMPNAME>COFU</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Boolean Variable (X=true, -=false, space=unknown)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_PAY_METHOD</CLSNAME>
+     <CMPNAME>COGL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Boolean Variable (X=true, -=false, space=unknown)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_PAY_METHOD</CLSNAME>
+     <CMPNAME>COGU</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Boolean Variable (X=true, -=false, space=unknown)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_PAY_METHOD</CLSNAME>
+     <CMPNAME>ENDDA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>End Date</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_PAY_METHOD</CLSNAME>
+     <CMPNAME>MOLGA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table Type of RSDSSELOPT</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_PAY_METHOD</CLSNAME>
+     <CMPNAME>P0009</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>HR Master Record: Infotype 0009 (Bank Details)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_PAY_METHOD</CLSNAME>
+     <CMPNAME>PERNR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table Type of RSDSSELOPT</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_PAY_METHOD</CLSNAME>
+     <CMPNAME>VP_PERSON_PAY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>table for name value pairs</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

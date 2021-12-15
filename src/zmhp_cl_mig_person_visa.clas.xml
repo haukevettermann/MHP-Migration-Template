@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Create PERSON_VISA migration strucutre</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>BEGDA</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Gültigkeitsbeginn</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>COFU</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>boolsche Variable (X=true, -=false, space=unknown)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>COGL</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>boolsche Variable (X=true, -=false, space=unknown)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>COGU</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>boolsche Variable (X=true, -=false, space=unknown)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>CREATE_METADATA</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Create worker metadata string</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>ENDDA</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Gültigkeitsende</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>GET_COFU_DATA</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Get relevant infotype data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>GET_MAPPING_FIELDS</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Get relevant migration mapping fields</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>GET_MAPPING_VALUES</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Get relevant migration mapping values</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>MAP_COFU_DATA</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Map infotyp structure to migration string</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>MAP_MIG_VALUES</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Mapping of field values</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>MOLGA</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Tabellentyp von RSDSSELOPT</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>P0002</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Personal-Stammsatz Infotyp 0002 (Daten zur Person)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>P0094</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Table type for infotype structure 0094</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>PERNR</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Tabellentyp von RSDSSELOPT</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_VISA</CLSNAME>
+     <CMPNAME>VISAPERMITTYPE</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>HCM - Oracle Integration Feld</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

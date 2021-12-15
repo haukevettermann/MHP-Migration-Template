@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Migration of user data</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>BEGDA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Start Date</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>COFU</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Boolean Variable (X=true, -=false, space=unknown)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>COGL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Boolean Variable (X=true, -=false, space=unknown)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>COGU</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Boolean Variable (X=true, -=false, space=unknown)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Konstruktor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>CREATE_METADATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Create worker metadata string</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>ENDDA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>End Date</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>GET_COFU_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get relevant infotype data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>GET_COGL_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get relevant infotype data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>MAP_COFU_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Map infotyp structure to migration string</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>MAP_COGL_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Map infotyp structure to migration string</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>MOLGA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table Type of RSDSSELOPT</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>P0105</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>HR Master Record: Infotype 0105 (Communication)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>PERNR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table Type of RSDSSELOPT</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>PROCEED_COFU_USER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Proceed person phone entity for migration to Oracle HCM</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>PROCEED_COGL_USER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Proceed person phone entity for migration to Oracle HCM</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_USER</CLSNAME>
+     <CMPNAME>VP_USER_STRUCTURE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Structure of user data</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

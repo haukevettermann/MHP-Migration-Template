@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZMHP_CL_MIG_BAL</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Migration IT2006</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_BAL</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Constructor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_BAL</CLSNAME>
+     <CMPNAME>MESSAGE_HANDLER</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Message Handler HCM</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_BAL</CLSNAME>
+     <CMPNAME>PREPARE_PROTOCOL</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Anzeige ALV Ausgabe</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_BAL</CLSNAME>
+     <CMPNAME>SIMU</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>boolsche Variable (X=true, -=false, space=unknown)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_BAL</CLSNAME>
+     <CMPNAME>SKIPPED_PERNRS</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Tabelle von Personalnummern</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

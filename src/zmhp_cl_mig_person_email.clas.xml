@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZMHP_CL_MIG_PERSON_EMAIL</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Create PERSON_EMAIL structure</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_EMAIL</CLSNAME>
+     <CMPNAME>COGU</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Boolean Variable (X=true, -=false, space=unknown)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_EMAIL</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_EMAIL</CLSNAME>
+     <CMPNAME>CREATE_METADATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Create worker metadata string</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_EMAIL</CLSNAME>
+     <CMPNAME>GET_COFU_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get relevant infotype data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_EMAIL</CLSNAME>
+     <CMPNAME>GET_COGL_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get relevant infotype data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_EMAIL</CLSNAME>
+     <CMPNAME>MAP_COFU_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Map infotyp structure to migration string</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_EMAIL</CLSNAME>
+     <CMPNAME>MAP_COGL_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Map infotyp structure to migration string</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_EMAIL</CLSNAME>
+     <CMPNAME>P0105</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Table type for infotype structure 0105</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_EMAIL</CLSNAME>
+     <CMPNAME>PROCEED_COFU_PERSON_EMAIL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Proceed worker entity for migration to Oracle HCM</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZMHP_CL_MIG_PERSON_EMAIL</CLSNAME>
+     <CMPNAME>PROCEED_COGL_PERSON_EMAIL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Proceed worker entity for migration to Oracle HCM</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
